@@ -8,3 +8,14 @@
     <img src="https://img.shields.io/badge/Gmail-critical?style=social&logo=gmail&logoColor=critical" alt="Gmail Badge"/>
   </a>
 </div>
+
+### Education
+
+- Yandex.Practicum Backend Python Developer | 2022 
+
+
+### Technologies
+
+- **Backend**: Python, Django, DjangoRestFramework
+- **Database**: SQLite, PostgreSQL
+- **Tools**: Git, Github, Docker, Nginx, Linux
