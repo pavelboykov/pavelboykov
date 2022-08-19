@@ -18,4 +18,4 @@
 
 - **Backend**: Python, Django, DjangoRestFramework
 - **Database**: SQLite, PostgreSQL
-- **Tools**: Git, Github, Docker, Nginx, Linux
+- **Tools**: Git, Github, Docker, Nginx, Linux, Yandex.Cloud
